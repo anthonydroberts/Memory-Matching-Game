@@ -11,9 +11,9 @@ const ROOT = "./public_html";
 
 // create http server
 var server = http.createServer(handleRequest);
-server.listen(2406);
+server..listen(process.env.PORT || 5000);
 
-console.log('Server listening on port 2406');
+console.log('Server listening on port 5000');
 
 var users=[];
 
