@@ -1,0 +1,38 @@
+body{
+	background-color:#333;
+	color:#8cc;
+}
+.div_class_card{
+	display:inline-block;
+	vertical-align:top;
+	text-align:center;
+	background-color:green;
+	width:40px;
+	height:40px;
+	padding: 3px 3px 3px 3px;
+	margin: 3px 3px 3px 3px;
+	border-style: solid;
+	border-color: gray;
+	border-width: 2px;
+	border-radius: 8px;
+}
+.div_class_card_flipped{
+	display:inline-block;
+	vertical-align:top;
+	text-align:center;
+	background-color:white;
+	width:40px;
+	height:40px;
+	padding: 3px 3px 3px 3px;
+	margin: 3px 3px 3px 3px;
+	border-style: solid;
+	border-color: gray;
+	border-width: 2px;
+	border-radius: 8px;
+	color:black;
+}
+.span_class_cardtext{
+	font-size: 24px;
+	font-family: Times;
+	font-style: Bold;
+}
