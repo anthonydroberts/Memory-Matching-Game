@@ -1,0 +1,26 @@
+{
+  "name": "memory-matching-game",
+  "version": "1.0.0",
+  "description": "A nodejs application",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tonydroberts1243/Memory-Matching-Game.git"
+  },
+  "keywords": [
+    "memory",
+    "matching",
+    "heroku"
+  ],
+  "author": "Anthony Roberts",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tonydroberts1243/Memory-Matching-Game/issues"
+  },"engines": {
+    "node": "4.1.1"
+  },
+  "homepage": "https://github.com/tonydroberts1243/Memory-Matching-Game#readme"
+}
