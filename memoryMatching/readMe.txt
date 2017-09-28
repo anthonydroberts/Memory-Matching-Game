@@ -1,10 +1,9 @@
 Anthony Roberts
-Student No. 100998631
-COMP2406 Assignment #3
 
 Operating System: Windows 7
 Browser Tested on: Chrome
 
 To setup and run app: Navigate to where the app.js is stored and execute it with >node app.js
+Then access the game through localhost at the port 2406
 
-Sources used: COMP2406 Lecture slides and code examples, created by Prof A. Runka
+The game will start as a 4x4 board and as you progress will get harder and harder.
