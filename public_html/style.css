@@ -1,6 +1,7 @@
 body{
 	background-color:#333;
 	color:#8cc;
+	font-family: "Arial", Arial, sans-serif;
 }
 .div_class_card{
 	display:inline-block;
